@@ -7,4 +7,4 @@ Another project idea is to help detect credit card fraud.
 
 The data comes from Kaggle, as does some of the code. But I'll be adding my own, as well as my own personal flair.
 
-So I began by doing a simple logistic regression. Then moved on to Decision Trees.
+So I began by doing a simple logistic regression. Then moved on to Decision Trees. Then XGBoost.
